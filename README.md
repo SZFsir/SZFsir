@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ![](https://komarev.com/ghpvc/?username=SZFsir&label=profile%20views&color=red&style=flat)
 
-- 🔭 Web Security / Program Analysis / CTFer
+- 🔭 LLM For Security / Web Security / Program Analysis / CTFer
 - 🏫 School: WHU
 - 👨‍💻 Intern: ByteDance(2022.7-2022.10), Work: ByteDance(2023.7-Now)
 - 🌱 Guitar Amateur 🎸 / Out of Tune Singer 🧑‍🎤 / Photographers 📷 / Runner Can't Run Far 🏃‍
